@@ -1,0 +1,17 @@
+{
+  "name": "assignment-5",
+  "version": "1.0.0",
+  "description": "saaignment 5",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "pan": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Mali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
